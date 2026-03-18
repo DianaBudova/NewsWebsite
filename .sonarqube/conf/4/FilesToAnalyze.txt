@@ -1,0 +1,13 @@
+﻿D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\Controllers\CommentsController.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\Controllers\LanguagesController.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\Controllers\NewsPostsController.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\Program.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\Startup.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\obj\Debug\net5.0\NewsWebsite.WebAPI.AssemblyInfo.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\obj\Debug\net5.0\NewsWebsite.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\appsettings.Development.json
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\appsettings.json
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\.dockerignore
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\Dockerfile
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\Properties\launchSettings.json

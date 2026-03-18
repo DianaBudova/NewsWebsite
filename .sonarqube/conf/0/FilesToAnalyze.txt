@@ -1,0 +1,9 @@
+﻿D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\Data\Abstract\IEntityRepository.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\Entity\Abstract\DtoGetBase.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\Entity\Abstract\EntityBase.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\Entity\Abstract\IEntity.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\Utilities\Results\Abstract\IDataResult.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\Utilities\Results\Abstract\IResult.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\Utilities\Results\ComplexTypes\ResultStatus.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\Utilities\Results\Concrete\DataResult.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\Utilities\Results\Concrete\Result.cs

@@ -1,0 +1,10 @@
+﻿D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\Abstract\ICategoryService.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\Abstract\ICommentService.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\Abstract\ILanguageService.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\Abstract\INewsPostService.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\AutoMapper\Profiles\CategoryProfile.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\AutoMapper\Profiles\NewsPostProfile.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\Concrete\CategoryManager.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\Concrete\CommentManager.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\Concrete\LanguageManager.cs
+D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\Concrete\NewsPostManager.cs
