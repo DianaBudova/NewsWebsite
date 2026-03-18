@@ -9,6 +9,7 @@ using NewsWebsite.Data.Concrete;
 using NewsWebsite.Data.Concrete.EntityFramework.Contexts;
 using NewsWebsite.Services.Abstract;
 using NewsWebsite.Services.Concrete;
+using NewsWebsite.WebAPI.Security;
 using Newtonsoft.Json;
 
 namespace NewsWebsite.WebAPI
@@ -33,6 +34,7 @@ namespace NewsWebsite.WebAPI
             services.AddScoped<INewsPostService, NewsPostManager>();
             services.AddScoped<ILanguageService, LanguageManager>();
             services.AddScoped<ICommentService, CommentManager>();
+            services.AddSingleton<UserAuth>();
 
             services.AddAutoMapper(typeof(Startup));
             services.AddScoped<NewsWebsiteContext>();
