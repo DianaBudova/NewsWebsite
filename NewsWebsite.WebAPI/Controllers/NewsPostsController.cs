@@ -27,7 +27,7 @@ namespace NewsWebsite.WebAPI.Controllers
         public async Task<IActionResult> GetById(int id)
         {
             var newsPost = await _newsPostService.Get(id);
-            if (newsPost != null)
+            if (newsPost?.Data != null)
             {
                 return Ok(newsPost); //200 + data
             }
@@ -72,7 +72,7 @@ namespace NewsWebsite.WebAPI.Controllers
         public async Task<IActionResult> Update(NewsPostUpdateDto newsPostUpdateDto)
         {
             var result = await _newsPostService.Get(newsPostUpdateDto.Id);
-            if (result != null)
+            if (result?.Data != null)
             {
                 var updateResult =
                     await _newsPostService.Update(newsPostUpdateDto, modifiedByName: "Büşra Tuğlu"); //200 + data
@@ -86,7 +86,7 @@ namespace NewsWebsite.WebAPI.Controllers
         public async Task<IActionResult> Delete(int id)
         {
             var result = await _newsPostService.Get(id);
-            if (result != null)
+            if (result?.Data != null)
             {
                 var deleteResult = await _newsPostService.Delete(id, modifiedByName: "Büşra Tuğlu");
                 return Ok(deleteResult); //200 
@@ -99,7 +99,7 @@ namespace NewsWebsite.WebAPI.Controllers
         public async Task<ActionResult> HardDelete(int id)
         {
             var result = await _newsPostService.Get(id);
-            if (result != null)
+            if (result?.Data != null)
             {
                 var deleteResult = await _newsPostService.HardDelete(id);
                 return Ok(deleteResult); //200 
