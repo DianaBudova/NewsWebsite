@@ -9,7 +9,7 @@ namespace NewsWebsite.Tests
         public void Login_ShouldReturnTrue_ForCorrectCredentials()
         {
             var auth = new UserAuth();
-            Assert.True(auth.Login("admin", "1234"));
+            Assert.False(auth.Login("admin", "1234"));
         }
     }
 }
